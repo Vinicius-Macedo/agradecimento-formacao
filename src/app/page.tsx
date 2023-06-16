@@ -189,7 +189,7 @@ export default function Home() {
           <h2 className="text-[#d9c034] text-[20px] font-extrabold title text-center">
             CONDIÇÃO EXCLUSIVA
           </h2>
-          <div className="flex justify-center items-start flex-wrap gap-4">
+          <div className="flex justify-center items-start flex-wrap gap-4 lg:gap-32">
             <p className="text-white semi-title font-bold w-auto">
               <span className="title leading-3">50%</span> DE <br />
               DESCONTO
